@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.0
+
+-   Dependency upgrade.
+-   Bug fixes.
+
 ## 1.0.2
 
 -   Dependency upgrade.
