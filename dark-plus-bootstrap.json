@@ -1,12 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"newOperator": "#c586c0ff",
-		"stringLiteral": "#ce9178ff",
-		"customLiteral": "#dcdcaaff",
-		"numberLiteral": "#b5cea8ff"
-	},
 	"colors": {
 		"activityBar.activeBorder": "#ffffffff",
 		"activityBar.background": "#343a40ff",
@@ -251,6 +245,12 @@
 		"widget.shadow": "#0000005c"
 	},
 	"name": "Dark+ Bootstrap",
+	"semanticTokenColors": {
+		"newOperator": "#e685b5ff",
+		"stringLiteral": "#ea868fff",
+		"customLiteral": "#fff3cdff",
+		"numberLiteral": "#a3cfbbff"
+	},
 	"tokenColors": [
 		{
 			"scope": [
