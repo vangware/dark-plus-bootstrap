@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+-   Upgrade dependencies and update config files.
+
 ## 1.1.2
 
 -   Apply linting rules.

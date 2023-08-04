@@ -33,5 +33,5 @@ VSCode lets you customize any theme to use the colors you want, so if you want f
 
 ## Other themes by [Vangware](https://vangware.com)
 
--   [**Dark+ Material:**](https://lukeshiru.dev/dark-plus-material) The default Dark+ theme, using [Material's color palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors).
--   [**Dark+ Tailwind:**](https://lukeshiru.dev/dark-plus-tailwind) The default Dark+ theme, using [Tailwind's color palette](https://tailwindcss.com/docs/customizing-colors).
+-   [**Dark+ Material:**](https://luke.sh/dark-plus-material) The default Dark+ theme, using [Material's color palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors).
+-   [**Dark+ Tailwind:**](https://luke.sh/dark-plus-tailwind) The default Dark+ theme, using [Tailwind's color palette](https://tailwindcss.com/docs/customizing-colors).
